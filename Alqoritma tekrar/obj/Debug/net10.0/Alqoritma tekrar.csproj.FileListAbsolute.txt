@@ -1,0 +1,14 @@
+C:\Users\Nurlan\source\repos\Alqoritma\Alqoritma tekrar\bin\Debug\net10.0\Alqoritma tekrar.exe
+C:\Users\Nurlan\source\repos\Alqoritma\Alqoritma tekrar\bin\Debug\net10.0\Alqoritma tekrar.deps.json
+C:\Users\Nurlan\source\repos\Alqoritma\Alqoritma tekrar\bin\Debug\net10.0\Alqoritma tekrar.runtimeconfig.json
+C:\Users\Nurlan\source\repos\Alqoritma\Alqoritma tekrar\bin\Debug\net10.0\Alqoritma tekrar.dll
+C:\Users\Nurlan\source\repos\Alqoritma\Alqoritma tekrar\bin\Debug\net10.0\Alqoritma tekrar.pdb
+C:\Users\Nurlan\source\repos\Alqoritma\Alqoritma tekrar\obj\Debug\net10.0\Alqoritma tekrar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nurlan\source\repos\Alqoritma\Alqoritma tekrar\obj\Debug\net10.0\Alqoritma tekrar.AssemblyInfoInputs.cache
+C:\Users\Nurlan\source\repos\Alqoritma\Alqoritma tekrar\obj\Debug\net10.0\Alqoritma tekrar.AssemblyInfo.cs
+C:\Users\Nurlan\source\repos\Alqoritma\Alqoritma tekrar\obj\Debug\net10.0\Alqoritma tekrar.csproj.CoreCompileInputs.cache
+C:\Users\Nurlan\source\repos\Alqoritma\Alqoritma tekrar\obj\Debug\net10.0\Alqoritma tekrar.dll
+C:\Users\Nurlan\source\repos\Alqoritma\Alqoritma tekrar\obj\Debug\net10.0\refint\Alqoritma tekrar.dll
+C:\Users\Nurlan\source\repos\Alqoritma\Alqoritma tekrar\obj\Debug\net10.0\Alqoritma tekrar.pdb
+C:\Users\Nurlan\source\repos\Alqoritma\Alqoritma tekrar\obj\Debug\net10.0\Alqoritma tekrar.genruntimeconfig.cache
+C:\Users\Nurlan\source\repos\Alqoritma\Alqoritma tekrar\obj\Debug\net10.0\ref\Alqoritma tekrar.dll
